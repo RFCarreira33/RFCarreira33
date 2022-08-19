@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center"> Hi there I'm Rodrigo Carreira👋</h1>
 
-<!--
-**RFCarreira33/RFCarreira33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2> About Me </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<ul>
+  <li> 🌱 I’m currently learning to code in general </li>
+  <li> 📚 Studying at IPLeiria </li>
+  <li> ⚡ Fun fact: I like Gaming and Bikes 🎮🏍️ </li>
+  <li> 📫 Reach me: <a href="https://mail.google.com/">rodrigocarreira33@gmail.com </a> or Discord <b>RF#3295 </b></li>
+  <li> 🖥️ My Hardware</li>
+  <ul>
+     <li> 🟧 Ryzen 7 2700x</li>
+     <li> 🟩 RTX 3060ti </li>
+     <li> 💻 M1 Macbook Air</li>
+  </ul>
+</ul>
+
+---
+<h3 align="center"> Languages, Tools and Stats </h3>
+
+<img align="left" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
+<img align="left" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+<img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
+<img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+<img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg">
+
+
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=dark">
+
+
