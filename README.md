@@ -2,7 +2,7 @@
 
 
 <h2> About Me </h2>
-
+<br>
 <ul>
   <li> 🌱 I’m currently learning to code in general </li>
   <li> 📚 Studying at IPLeiria </li>
@@ -17,8 +17,8 @@
 </ul>
 
 ---
-<h3 align="center"> Languages, Tools and Stats </h3>
-
+<h2> Languages, Tools and Stats </h2>
+<br>
 <img align="left" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
 <img align="left" width="7%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
 <img align="left" width="5%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
@@ -28,5 +28,4 @@
 
 
 <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=dark">
-
 
