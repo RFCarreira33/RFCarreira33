@@ -6,7 +6,7 @@
 <ul>
   <li> 🌱 I’m currently learning to code in general </li>
   <li> 📚 Studying at IPLeiria </li>
-  <li> ⚡ Fun fact: I like Gaming and Bikes 🎮🏍️ </li>
+  <li> ⚡ Fun fact: I like Tech and Bikes 🎮🏍️ </li>
   <li> 📫 Reach me: <a href="https://mail.google.com/">rodrigocarreira33@gmail.com </a> or Discord <b>RF#3295 </b></li>
   <li> 🖥️ My Hardware</li>
   <ul>
