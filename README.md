@@ -4,14 +4,13 @@
 <h2> About Me </h2>
 <br>
 <ul>
-  <li> 🌱 I’m currently learning to code in general </li>
   <li> 📚 Studying at IPLeiria </li>
   <li> ⚡ Fun fact: I like Tech and Bikes 🎮🏍️ </li>
   <li> 📫 Reach me: <a href="https://mail.google.com/">rodrigocarreira33@gmail.com </a> or Discord <b>RF#3295 </b></li>
   <li> 🖥️ My Hardware</li>
   <ul>
-     <li> 🟧 Ryzen 7 2700x</li>
-     <li> 🟩 RTX 3060ti </li>
+     <li> 🟧 AMD Ryzen 7 2700x</li>
+     <li> 🟩 Nvidia RTX 3060ti </li>
      <li> 💻 M1 Macbook Air</li>
   </ul>
 </ul>
