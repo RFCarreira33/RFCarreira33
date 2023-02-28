@@ -11,6 +11,4 @@ _To find a little more about me check my [personal website](https://rfcarreira33
 ![](https://skillicons.dev/icons?i=php,java,python,md)
 ![](https://skillicons.dev/icons?i=mysql,neovim,vscode,github)
 
----
-
 [![](https://github-readme-stats.vercel.app/api?username=rfcarreira33&include_all_commits=true&count_private=true&show_icons=true&pull_requests=false&theme=city_lights)]()
