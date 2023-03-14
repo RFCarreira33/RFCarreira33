@@ -2,13 +2,18 @@
 
 ### I'm a second year student, taking PSI at IPLeiria
 
-_**Currently doing an internship at [MD3](https://md3.pt)**_
+### _**Currently doing an internship at [MD3](https://md3.pt)**_
+
+These are the languages and tools I'm currently using or playing with
+
+![](https://skillicons.dev/icons?i=react,ts,rust,python)
+![](https://skillicons.dev/icons?i=gitlab,github,neovim,vscode)
 
 _To find a little more about me check my [personal website](https://rfcarreira33.github.io)_ 🧐
 
-### Languages and tools
+<br>
 
-![](https://skillicons.dev/icons?i=php,java,python,md)
-![](https://skillicons.dev/icons?i=mysql,neovim,vscode,github)
-
-[![](https://github-readme-stats.vercel.app/api?username=rfcarreira33&include_all_commits=true&count_private=true&show_icons=true&pull_requests=false&theme=city_lights)]()
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=dark&count_private=true">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfcarreira33&theme=dark&layout=compact&count_private=true">
+</div>
