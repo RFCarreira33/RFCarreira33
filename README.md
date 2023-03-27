@@ -11,9 +11,9 @@ These are the languages and tools I'm currently using or playing with
 
 _To find a little more about me check my [personal website](https://rfcarreira33.github.io)_ 🧐
 
-<br>
+<hr>
 
 <div align="center">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=dark&count_private=true">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfcarreira33&theme=dark&layout=compact&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=city_lights&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfcarreira33&theme=city_lights&layout=compact&count_private=true">
 </div>
