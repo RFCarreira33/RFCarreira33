@@ -14,6 +14,6 @@ _To find a little more about me check my [personal website](https://rfcarreira33
 <hr>
 
 <div align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&show_icons=true&theme=dark&count_private=true">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rfcarreira33&rank_icon=github&theme=dark&count_private=true">
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfcarreira33&theme=dark&layout=compact&count_private=true">
 </div>
