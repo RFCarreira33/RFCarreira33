@@ -2,12 +2,10 @@
 
 ### I'm a second year student, taking PSI at IPLeiria
 
-### _**Currently doing an internship at [MD3](https://md3.pt)**_
-
 These are the languages and tools I'm currently using or playing with
 
 ![](https://skillicons.dev/icons?i=react,ts,django,python)
-![](https://skillicons.dev/icons?i=rust,gitlab,github,neovim)
+![](https://skillicons.dev/icons?i=rust,go,github,neovim)
 
 _To find a little more about me check my [personal website](https://rfcarreira33.github.io)_ 🧐
 
