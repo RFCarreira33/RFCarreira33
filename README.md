@@ -1,11 +1,11 @@
 ## Heyo, I'm Rodrigo 👋
 
-### I'm a second year student, taking PSI at IPLeiria
+### I'm a first year student, taking Computer Science at IPLeiria
 
 These are the languages and tools I'm currently using or playing with
 
-![](https://skillicons.dev/icons?i=react,ts,django,python)
-![](https://skillicons.dev/icons?i=rust,go,github,neovim)
+![](https://skillicons.dev/icons?i=react,ts,rust,cpp)
+![](https://skillicons.dev/icons?i=go,postman,github,neovim)
 
 _To find a little more about me check my [personal website](https://rfcarreira33.github.io)_ 🧐
 
