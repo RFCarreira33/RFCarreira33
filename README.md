@@ -1,6 +1,6 @@
 ## []() Heyo, I'm Rodrigo 👋
 
-### []() I'm a second year student, taking **Computer Science** at [IPLeiria](https://www.ipleiria.pt/)
+### []() **Computer Science** undergrad at [IPLeiria](https://www.ipleiria.pt/)
 
 ### []() Working as a **Full Stack Developer** at [MD3](https://md3.pt/)
 
